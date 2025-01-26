@@ -11,4 +11,4 @@ Welcome to the **Version Control System (VCS)** project! This is a simple, Pytho
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/vcs-project.git
+   git clone https://github.com/kavinda9210/vcs-project
